@@ -282,6 +282,7 @@ export default function MSGroup() {
       <footer className="main-footer">
         <div className="section-content text-center footer-text">
           <p>&copy; 2025 mS. Group. All rights reserved. Luxury redefined.</p>
+          <p>Developed bye <a href='https://nkocoding.codes'>NKO</a></p>
         </div>
       </footer>
     </div>
