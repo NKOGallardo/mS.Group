@@ -256,9 +256,9 @@ export default function MSGroup() {
           </h3>
           <div className="contact-grid">
             {[
-              { icon: Phone, title: 'Call Us', text: '+1 (555) 123-4567' },
-              { icon: Mail, title: 'Email Us', text: 'info@msgroup.com' },
-              { icon: MapPin, title: 'Visit Us', text: '123 Luxury Lane, City' }
+              { icon: Phone, title: 'Call Us', text: '+27 (071) 731-6712' },
+              { icon: Mail, title: 'Email Us', text: 'info.msgroup@icloud.com' },
+              { icon: MapPin, title: 'Visit Us', text: 'South Africa' }
             ].map((item, idx) => (
               <div 
                 key={idx}
