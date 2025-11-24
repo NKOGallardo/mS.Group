@@ -282,7 +282,12 @@ export default function MSGroup() {
       <footer className="main-footer">
         <div className="section-content text-center footer-text">
           <p>&copy; 2025 mS. Group. All rights reserved. Luxury redefined.</p>
-          <p>Developed bye <a href='https://nkocoding.codes'>NKO</a></p>
+          <p>
+            We also have mS. AIR
+            <u style={{ marginLeft: '5px' }}>
+              Developed by <a href="https://nkocoding.codes">NKO</a>
+            </u>
+          </p>
         </div>
       </footer>
     </div>
