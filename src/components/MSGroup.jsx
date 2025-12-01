@@ -50,6 +50,7 @@ export default function MSGroup() {
     return scrollY > offset - 600;
   };
 
+  
   return (
     <div className="main-app" style={{ cursor: 'none' }}>
       {/* Custom Cursor */}
